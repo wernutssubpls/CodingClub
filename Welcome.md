@@ -1,3 +1,3 @@
 # Welcome to EMS Coding Club
 
-We rock!
+We rok!
